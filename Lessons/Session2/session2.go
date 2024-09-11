@@ -41,3 +41,6 @@ func slices(){
 	fmt.Printf("We have %d planets listed %v\n",  len(planets), planets)
 
 }
+
+// The  main difference between Arrays and Slices is that slices are more flexibke compared to arrays.
+// In arrays, the length is predetermined but in slices it is not.
