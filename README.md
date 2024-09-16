@@ -1,5 +1,5 @@
 # Golang-training
-This Repository contains lessons and exercises given during the Golang training by Digital Vibe Hub Ltd.
+This Repository contains lessons and exercises given during the Golang training by Digital Vibe Hub Ltd
 
 
 ## Exercise 1 -  Session 1
