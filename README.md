@@ -1,7 +1,7 @@
 # Golang-training
 This Repository contains lessons and exercises given during the Golang training by Digital Vibe Hub Ltd
 
-
+### Exercises
 ## Exercise 1 -  Session 1
 1. Write a program that declares an integer variable called 'i' with the value 50. Assign 'i' to a floating-point variable named 'f'. Print out 'i' and 'f'.
 
