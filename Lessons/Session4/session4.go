@@ -59,3 +59,8 @@ func main(){
 	fmt.Println(person.Age)
 	fmt.Println(person.Name, "is a", person.Age, "year old", person.Gender)
 }
+//When to use pointers
+/* 
+	1. Fetching databases
+	2. Writing APIs 
+*/
